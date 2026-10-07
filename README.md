@@ -24,6 +24,7 @@
 * [Zoho Invoice](https://www.zoho.com/invoice) - Free online invoicing software with multi-currency support.
 * [Invoice Ninja](https://invoiceninja.com) - Open-source invoicing platform with self-hosting option.
 * [Bill.com](https://bill.com) - SMB-focused AP and AR automation.
+* [Invompt](https://invompt.com) - Turns work from Claude, ChatGPT, or Cursor into invoices and quotes you review before sending, through a hosted MCP with Continue as guest.
 
 ## Accounts Receivable Automation
 *Get paid faster without writing chase emails by hand.*
